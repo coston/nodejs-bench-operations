@@ -27,6 +27,7 @@ These results aim to compare http libraries between versions of Node.js
 
 - [v14](./RESULTS-HTTP-v14.md)
 - [v16](./RESULTS-HTTP-v16.md)
+- [v18](./RESULTS-HTTP-v18.md)
 
 ## Affiliates
 
